@@ -1,0 +1,363 @@
+2018-07-29 15:13:54,854-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:13:54,854-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:13:54,854-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:13:54,854-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:13:54,854-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:13:54,901-0700 INFO  pdflatex - going to create file: pdflatex.fmt
+2018-07-29 15:14:00,977-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:14:00,977-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:14:00,977-0700 FATAL pdflatex - Info: 
+2018-07-29 15:14:00,977-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:14:00,977-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:14:00,977-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:14:01,587-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:14:01,602-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:14:01,602-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:14:01,602-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:01,602-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:01,805-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:14:01,805-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:14:01,805-0700 FATAL pdflatex - Info: 
+2018-07-29 15:14:01,805-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:14:01,805-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:14:01,805-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:14:01,977-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:14:01,993-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:14:01,993-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:14:01,993-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:01,993-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:02,180-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:14:02,180-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:14:02,180-0700 FATAL pdflatex - Info: 
+2018-07-29 15:14:02,180-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:14:02,180-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:14:02,180-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:14:08,342-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:14:08,358-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:14:08,358-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:14:08,358-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:08,358-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:08,608-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:14:09,061-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:14:09,061-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:14:09,061-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:14:09,061-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:09,061-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:09,280-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:14:09,452-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:14:09,468-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:14:09,468-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:14:09,468-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:09,468-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:14:09,671-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:17:08,548-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:08,558-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:08,559-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:08,559-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:08,560-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:08,911-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:17:09,536-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:09,551-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:09,551-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:09,551-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:09,551-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:09,801-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:17:10,114-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:10,114-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:10,114-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:10,114-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:10,114-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:10,395-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:17:16,897-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:16,913-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:16,913-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:16,913-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:16,913-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:17,178-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:17:17,178-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:17:17,178-0700 FATAL pdflatex - Info: 
+2018-07-29 15:17:17,178-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:17:17,178-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:17:17,178-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:17:17,616-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:17,616-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:17,616-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:17,616-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:17,616-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:17,850-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:17:17,850-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:17:17,850-0700 FATAL pdflatex - Info: 
+2018-07-29 15:17:17,850-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:17:17,850-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:17:17,850-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:17:18,022-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:17:18,022-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:17:18,038-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:17:18,038-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:18,038-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:17:18,225-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:17:18,225-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:17:18,225-0700 FATAL pdflatex - Info: 
+2018-07-29 15:17:18,225-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:17:18,225-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:17:18,225-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:19:23,935-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:19:23,935-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:19:23,935-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:19:23,935-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:23,935-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:24,185-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:19:24,185-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:19:24,185-0700 FATAL pdflatex - Info: 
+2018-07-29 15:19:24,185-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:19:24,185-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:19:24,185-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:19:24,654-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:19:24,654-0700 FATAL pdflatex - Info: 
+2018-07-29 15:19:24,654-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:19:24,654-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:19:24,654-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:19:25,048-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:19:25,048-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:19:25,048-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:19:25,048-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:25,048-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:19:25,266-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:19:25,266-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:19:25,266-0700 FATAL pdflatex - Info: 
+2018-07-29 15:19:25,266-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:19:25,266-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:19:25,266-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:21:11,026-0700 INFO  pdflatex - starting with command line: pdflatex --version
+2018-07-29 15:21:11,041-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:11,041-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:11,041-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:13,808-0700 INFO  pdflatex - starting with command line: pdflatex -draftmode -interaction=nonstopmode --disable-installer C:/Users/Sean/AppData/Local/Temp/fX5084.tex
+2018-07-29 15:21:13,917-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:13,917-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:14,073-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:21:19,367-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:19,367-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:19,367-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:19,680-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:21:19,680-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:21:19,680-0700 FATAL pdflatex - Info: 
+2018-07-29 15:21:19,680-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:21:19,680-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:21:19,680-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:21:19,961-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:19,961-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:19,961-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:20,289-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:21:20,289-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:21:20,289-0700 FATAL pdflatex - Info: 
+2018-07-29 15:21:20,289-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:21:20,289-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:21:20,289-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:21:35,121-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:35,121-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:35,121-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:35,387-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:43,512-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:43,528-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:43,528-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:43,747-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:44,825-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:44,825-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:44,825-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:45,059-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:45,825-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:45,841-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:45,841-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:46,106-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:46,825-0700 INFO  pdflatex - starting with command line: pdflatex.exe -synctex=1 -interaction=nonstopmode test_.tex
+2018-07-29 15:21:46,841-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:46,841-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:47,059-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:52,713-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:21:52,713-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:52,713-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:52,713-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:52,713-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:52,901-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:53,245-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:21:53,260-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:53,260-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:53,260-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:53,260-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:53,448-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:21:53,635-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:21:53,635-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:21:53,651-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:21:53,651-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:53,651-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:21:53,854-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:24:38,347-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:24:38,363-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:24:38,363-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:24:38,363-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:38,363-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:38,597-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:24:38,597-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:24:38,597-0700 FATAL pdflatex - Info: 
+2018-07-29 15:24:38,597-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:24:38,597-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:24:38,597-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:24:38,957-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:24:38,957-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:24:38,957-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:24:38,957-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:38,957-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:39,238-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:24:39,238-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:24:39,238-0700 FATAL pdflatex - Info: 
+2018-07-29 15:24:39,238-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:24:39,238-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:24:39,238-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:24:39,441-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:24:39,441-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:24:39,441-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:24:39,456-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:39,456-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:24:39,675-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:24:39,675-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:24:39,675-0700 FATAL pdflatex - Info: 
+2018-07-29 15:24:39,675-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:24:39,675-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:24:39,675-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:33:06,891-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:06,891-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:06,907-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:06,907-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:06,907-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:06,938-0700 INFO  pdflatex - going to create file: pdflatex.fmt
+2018-07-29 15:33:11,689-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:33:11,689-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:33:11,689-0700 FATAL pdflatex - Info: 
+2018-07-29 15:33:11,689-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:33:11,689-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:33:11,689-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:33:12,142-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:12,158-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:12,158-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:12,158-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:12,158-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:12,408-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:33:12,408-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:33:12,408-0700 FATAL pdflatex - Info: 
+2018-07-29 15:33:12,408-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:33:12,408-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:33:12,408-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:33:12,626-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:12,626-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:12,626-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:12,626-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:12,626-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:12,954-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:33:12,954-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:33:12,954-0700 FATAL pdflatex - Info: 
+2018-07-29 15:33:12,954-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:33:12,954-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:33:12,954-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:33:26,403-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:26,403-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:26,419-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:26,419-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:26,419-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:26,622-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:33:26,950-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:26,966-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:26,966-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:26,966-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:26,966-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:27,200-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:33:27,419-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:27,435-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:27,435-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:27,435-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:27,435-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:27,653-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:33:30,903-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:30,903-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:30,903-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:30,903-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:30,903-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:31,169-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:33:31,700-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:31,716-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:31,716-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:31,716-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:31,716-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:31,982-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:33:32,185-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:33:32,201-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:33:32,201-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:33:32,201-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:32,201-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:33:32,513-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:34:37,859-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:34:37,859-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:34:37,859-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:34:37,859-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:37,859-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:38,110-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:34:38,110-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:34:38,110-0700 FATAL pdflatex - Info: 
+2018-07-29 15:34:38,110-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:34:38,110-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:34:38,110-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:34:38,688-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:34:38,688-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:34:38,688-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:34:38,688-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:38,688-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:38,907-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:34:38,907-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:34:38,907-0700 FATAL pdflatex - Info: 
+2018-07-29 15:34:38,907-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:34:38,907-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:34:38,907-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:34:39,110-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test_
+2018-07-29 15:34:39,110-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:34:39,110-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:34:39,110-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:39,110-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:34:39,329-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:34:39,329-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:34:39,329-0700 FATAL pdflatex - Info: 
+2018-07-29 15:34:39,329-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:34:39,329-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:34:39,329-0700 INFO  pdflatex - finishing with exit code 1
+2018-07-29 15:41:03,991-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test2
+2018-07-29 15:41:03,991-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:41:03,991-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:41:03,991-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:03,991-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:04,116-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:41:04,694-0700 INFO  pdflatex - starting with command line: pdflatex.exe -draftmode -interaction=batchmode -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build C:\Dropbox\FinancialInclusion\POS\tex\test2
+2018-07-29 15:41:04,694-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:41:04,694-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:41:04,694-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:04,694-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:04,804-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:41:05,038-0700 INFO  pdflatex - starting with command line: pdflatex.exe -interaction=batchmode -synctex=-1 -aux-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -output-directory=C:\Dropbox\FinancialInclusion\POS\tex\\build -quiet C:\Dropbox\FinancialInclusion\POS\tex\test2
+2018-07-29 15:41:05,038-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:41:05,038-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:41:05,038-0700 INFO  pdflatex - setting aux directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:05,038-0700 INFO  pdflatex - setting output directory: C:\Dropbox\FinancialInclusion\POS\tex\build
+2018-07-29 15:41:05,194-0700 INFO  pdflatex - finishing with exit code 0
+2018-07-29 15:46:03,060-0700 INFO  pdflatex - starting with command line: pdflatex C:\Dropbox\FinancialInclusion\POS\tex\test2.tex
+2018-07-29 15:46:03,076-0700 INFO  pdflatex - allowing known shell commands
+2018-07-29 15:46:03,076-0700 INFO  pdflatex - enabling input (output) from (to) processes
+2018-07-29 15:46:03,232-0700 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2018-07-29 15:46:03,232-0700 FATAL pdflatex - Administrative mode cannot be enabled (makes no sense) because this is not a shared MiKTeX setup.
+2018-07-29 15:46:03,232-0700 FATAL pdflatex - Info: 
+2018-07-29 15:46:03,232-0700 FATAL pdflatex - Source: Libraries\MiKTeX\Core\Session\config.cpp
+2018-07-29 15:46:03,232-0700 FATAL pdflatex - Line: 1270
+2018-07-29 15:46:03,232-0700 INFO  pdflatex - finishing with exit code 1
